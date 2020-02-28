@@ -1,0 +1,6 @@
+C:\Users\Heliton\source\repos\ContratoFuncionario-ComposiçãoOO\ContratoFuncionario-ComposiçãoOO\bin\Debug\ContratoFuncionario-ComposiçãoOO.exe.config
+C:\Users\Heliton\source\repos\ContratoFuncionario-ComposiçãoOO\ContratoFuncionario-ComposiçãoOO\bin\Debug\ContratoFuncionario-ComposiçãoOO.exe
+C:\Users\Heliton\source\repos\ContratoFuncionario-ComposiçãoOO\ContratoFuncionario-ComposiçãoOO\bin\Debug\ContratoFuncionario-ComposiçãoOO.pdb
+C:\Users\Heliton\source\repos\ContratoFuncionario-ComposiçãoOO\ContratoFuncionario-ComposiçãoOO\obj\Debug\ContratoFuncionario-ComposiçãoOO.csprojAssemblyReference.cache
+C:\Users\Heliton\source\repos\ContratoFuncionario-ComposiçãoOO\ContratoFuncionario-ComposiçãoOO\obj\Debug\ContratoFuncionario-ComposiçãoOO.exe
+C:\Users\Heliton\source\repos\ContratoFuncionario-ComposiçãoOO\ContratoFuncionario-ComposiçãoOO\obj\Debug\ContratoFuncionario-ComposiçãoOO.pdb
